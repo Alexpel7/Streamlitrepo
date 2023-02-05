@@ -6,10 +6,7 @@ import seaborn as sns
 from streamlit_option_menu import option_menu
 import folium
 import plotly.express as px
-from folium.plugins import MarkerCluster
 from plotnine import *
-import plotly.express as px
-import matplotlib.cm as cm
 import json
 
 df = pd.read_csv('watches.csv')

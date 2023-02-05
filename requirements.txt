@@ -1,0 +1,14 @@
+numpy
+pandas
+streamlit
+streamlit_option_menu
+pandas
+plotnine
+plotly
+plotly.express
+seaborn
+folium==0.12.0
+branca==0.3.1
+json
+matplotlib.pyplot
+
